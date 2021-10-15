@@ -1,0 +1,36 @@
+{
+  "name": "mall_cahtsys",
+  "version": "1.0.0",
+  "description": "smally mall homepage with chat system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuroneko-s/mall_cahtSys.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuroneko-s/mall_cahtSys/issues"
+  },
+  "homepage": "https://github.com/kuroneko-s/mall_cahtSys#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/node": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
